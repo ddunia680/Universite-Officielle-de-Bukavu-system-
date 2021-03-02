@@ -94,7 +94,7 @@ $value=@mysqli_fetch_array($result);
 					<td><?php echo $value["email"]?></td>
 					<td><?php echo $value["tel"]?></td>
 					<td><?php echo $value["department"]?></td>
-					<td><?php echo $value["faculty"]?></td>
+					<td><?php echo $value["program"]?></td>
 				</tr>
 				<tr>
 					<td colspan="12"><?php echo "_________________________________________________________________________________________________________________________________________________"; ?></td>
